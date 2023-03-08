@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "name": "gfxgf",
+      "email": "sdfsdfsdfsdffsdf",
+      "password": "adasdadssdfsdffsdfdsfsdf",
+      "id": 1
+    },
+    {
+      "name": "gncgbvcghbv",
+      "email": "sdfsdfsdfsdffsdf",
+      "password": "adasdadssdfsdffsdfdsfsdf",
+      "id": 2
+    },
+    {
+      "name": "jhmchg h",
+      "email": "sdf",
+      "password": "adasdadssdfsdffsdfdsasdasdfsdf",
+      "id": 3
+    },
+    {
+      "name": "jhmv",
+      "email": "sdf",
+      "password": "adasdadssdfsdffsdfdsasdasdfsdf",
+      "id": 4
+    },
+    {
+      "name": "jhmv",
+      "email": "sdf",
+      "password": "adasdadssdfsdffsdfdsasdasdfsdf",
+      "id": 5
+    },
+    {
+      "name": "hgncvgb",
+      "email": "sdf",
+      "password": "adasdadssdfsdffsdfdsasdasdfsdf",
+      "id": 6
+    },
+    {
+      "name": "as",
+      "email": "a",
+      "password": "a",
+      "id": 7
+    },
+    {
+      "name": "as",
+      "email": "as",
+      "password": "as",
+      "id": 8
+    },
+    {
+      "name": "ew",
+      "email": "as",
+      "password": "as",
+      "id": 9
+    },
+    {
+      "name": "sdaf",
+      "email": "as",
+      "password": "as",
+      "id": 10
+    },
+    {
+      "name": "sefsfd",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 11
+    },
+    {
+      "name": "jhn",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 12
+    },
+    {
+      "name": "adasf",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 13
+    },
+    {
+      "name": "asdas",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 14
+    },
+    {
+      "name": "wrefdc",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 15
+    },
+    {
+      "name": "7ut6ufgv",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 16
+    },
+    {
+      "name": "7ut6ufgv",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 17
+    },
+    {
+      "name": "yth",
+      "email": "assdfsf",
+      "password": "assdffd",
+      "id": 18
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Puranpoli",
+      "address": "Kokan",
+      "contact": "3473",
+      "id": 1
+    },
+    {
+      "name": "KFC",
+      "address": "Mumbai",
+      "contact": "4535",
+      "id": 2
+    },
+    {
+      "name": "Dominos",
+      "address": "nagpur",
+      "contact": "8473",
+      "id": 3
+    },
+    {
+      "name": "Burgerking",
+      "address": "banglore",
+      "contact": "9354",
+      "id": 4
+    },
+    {
+      "name": "Lapinoz",
+      "address": "delhi",
+      "contact": "8253",
+      "id": 5
+    },
+    {
+      "name": "Misal",
+      "address": "malvan",
+      "contact": "9346",
+      "id": 6
+    },
+    {
+      "name": "Vadapav",
+      "address": "Chinchwad",
+      "contact": "8723",
+      "id": 7
+    },
+    {
+      "name": "Dabeli",
+      "address": "Pune",
+      "contact": "2287",
+      "id": 8
+    }
+  ]
+}
